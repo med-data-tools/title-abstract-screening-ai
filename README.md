@@ -21,6 +21,7 @@ The publications is about doing an automated title abstract screening in the bio
 
 A python jupyter script used to run the experiments reported in the article.
 It accesses four large language models, which are asked to classify how relevant a publication for a specific task is.
+At the end, evaluation scores of the results are computed.
 
 ### dataset(CDSS_in_RO).csv
 
