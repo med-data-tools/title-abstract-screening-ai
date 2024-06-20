@@ -8,7 +8,7 @@ This is the github repository hosting the code and a data file related to the fo
 
 Fabio Dennstädt, Johannes Zink, Paul Martin Putora, Janna Hastings, Nikola Cihoric.\
 Title and Abstract Screening for Literature Reviews using Large Language Models: An exploratory study in the biomedical domain.\
-*Journal TBA*, XX:X, 2024. To appear.
+*Syst. Rev.* **13**, 158 (2024). [doi: 10.1186/s13643-024-02575-4](https://doi.org/10.1186/s13643-024-02575-4)
 
 ---
 
